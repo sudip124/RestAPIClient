@@ -130,7 +130,7 @@ dist
 .pnp.*
 
 # csv
-.csv
+*.csv
 
 # mac files
 .DS_Store
