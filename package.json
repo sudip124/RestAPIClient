@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "json-2-csv": "^3.16.0",
+    "aws-xray-sdk": "^3.3.4"
+  }
+}
